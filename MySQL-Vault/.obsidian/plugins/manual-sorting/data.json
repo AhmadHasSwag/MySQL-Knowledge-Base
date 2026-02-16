@@ -1,0 +1,182 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "CHAR_LENGTH() FUNCTION.md",
+        "MYSQL FUNCTIONS",
+        "2026-01-27.md",
+        "Untitled.canvas",
+        "SQL SERVER.md",
+        "INJECTION.md",
+        "NULL FUNCTIONS.md",
+        "MAIN FOLDER",
+        "PHOTOS",
+        "DCL",
+        "DDL",
+        "DML",
+        "DQL",
+        "TCL",
+        "Utility - Administrative Command"
+      ],
+      "sortOrder": "custom"
+    },
+    "DCL": {
+      "children": [
+        "DCL/DCL (Data Control Language).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DDL": {
+      "children": [
+        "DDL/CONSTRAINTS",
+        "DDL/DROP DB.md",
+        "DDL/CREATE DB.md",
+        "DDL/DROP TABLE.md",
+        "DDL/ALTER TABLE.md",
+        "DDL/CREATE TABLE.md",
+        "DDL/RENAME TABLE.md",
+        "DDL/TRUNCATE TABLE.md",
+        "DDL/DDL (Data Definition Language).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DDL/CONSTRAINTS": {
+      "children": [
+        "DDL/CONSTRAINTS/CONSTRAINTS.md",
+        "DDL/CONSTRAINTS/Create Constraints.md",
+        "DDL/CONSTRAINTS/CHECK CONSTRAINT.md",
+        "DDL/CONSTRAINTS/UNIQUE CONSTRAINT.md",
+        "DDL/CONSTRAINTS/DEFAULT CNOSTRAINT.md",
+        "DDL/CONSTRAINTS/NOT NULL CONSTRAINS.md",
+        "DDL/CONSTRAINTS/PRIMARY KEY CONSTRAIN.md",
+        "DDL/CONSTRAINTS/FOREIGN KEY CONSTRAINT.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DML": {
+      "children": [
+        "DML/DELETE.md",
+        "DML/UPDATE.md",
+        "DML/SELECT INTO.md",
+        "DML/INSERT INTO.md",
+        "DML/INSERT INTO SELECT.md",
+        "DML/DML (Data Manipulation Language).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DQL": {
+      "children": [
+        "DQL/JOIN",
+        "DQL/SELECT",
+        "DQL/UNION",
+        "DQL/WHERE",
+        "DQL/DQL(Data Query Language).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DQL/JOIN": {
+      "children": [
+        "DQL/JOIN/INNER JOIN.md",
+        "DQL/JOIN/JOIN.md",
+        "DQL/JOIN/LEFT JOIN.md",
+        "DQL/JOIN/OUTER JOIN.md",
+        "DQL/JOIN/RIGHT JOIN.md",
+        "DQL/JOIN/SELF JOIN.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DQL/SELECT": {
+      "children": [
+        "DQL/SELECT/AVG.md",
+        "DQL/SELECT/TOP.md",
+        "DQL/SELECT/SUM.md",
+        "DQL/SELECT/CASE.md",
+        "DQL/SELECT/LIMIT.md",
+        "DQL/SELECT/SELECT.md",
+        "DQL/SELECT/Aliases.md",
+        "DQL/SELECT/Having.md",
+        "DQL/SELECT/COUNT.md",
+        "DQL/SELECT/Distinct.md",
+        "DQL/SELECT/ORDER BY.md",
+        "DQL/SELECT/GROUP BY.md",
+        "DQL/SELECT/MIN & MAX.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DQL/UNION": {
+      "children": [
+        "DQL/UNION/UNION.md",
+        "DQL/UNION/UNION ALL.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DQL/WHERE": {
+      "children": [
+        "DQL/WHERE/ALL.md",
+        "DQL/WHERE/ANY.md",
+        "DQL/WHERE/BETWEEN.md",
+        "DQL/WHERE/Exists.md",
+        "DQL/WHERE/IN.md",
+        "DQL/WHERE/LIKE.md",
+        "DQL/WHERE/WHERE.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "MAIN FOLDER": {
+      "children": [
+        "MAIN FOLDER/SQL.md",
+        "MAIN FOLDER/DATES.md",
+        "MAIN FOLDER/FILTERING.md",
+        "MAIN FOLDER/OPERATORS.md",
+        "MAIN FOLDER/COMMENTS.md",
+        "MAIN FOLDER/DATA TYPES.md",
+        "MAIN FOLDER/CORRECT SQL.md",
+        "MAIN FOLDER/VIEW STATEMENT.md",
+        "MAIN FOLDER/IMPORTANT TO KNOW.md",
+        "MAIN FOLDER/Stored Procedures for SQL Server.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "MYSQL FUNCTIONS": {
+      "children": [
+        "MYSQL FUNCTIONS/STRING FUNCTIONS"
+      ],
+      "sortOrder": "custom"
+    },
+    "MYSQL FUNCTIONS/STRING FUNCTIONS": {
+      "children": [
+        "MYSQL FUNCTIONS/STRING FUNCTIONS/ASCII() FUNCTION.md",
+        "MYSQL FUNCTIONS/STRING FUNCTIONS/STRING FUNCTIONS.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "PHOTOS": {
+      "children": [
+        "PHOTOS/7photo.png",
+        "PHOTOS/1photo.jpg",
+        "PHOTOS/2PHOTO.png",
+        "PHOTOS/3PHOTO.jpg",
+        "PHOTOS/4PHOTO.avif",
+        "PHOTOS/5 PHOTO.png",
+        "PHOTOS/6 PHOTO.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "TCL": {
+      "children": [
+        "TCL/TCL (Transaction Control Language).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Utility - Administrative Command": {
+      "children": [
+        "Utility - Administrative Command/Administrative Command.md",
+        "Utility - Administrative Command/BACKUP DATABASE.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

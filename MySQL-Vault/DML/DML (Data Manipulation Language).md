@@ -1,0 +1,7 @@
+
+
+### LINKS
+
+[[INSERT INTO]]
+[[UPDATE]]
+[[DELETE]]

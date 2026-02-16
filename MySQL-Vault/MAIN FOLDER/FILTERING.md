@@ -1,0 +1,5 @@
+## [[Distinct]]
+## [[Where]]
+## [[Having]]
+## [[LIMIT]]
+## [[TOP]]

@@ -1,0 +1,93 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "DQL",
+      "color": {
+        "a": 1,
+        "rgb": 10816781
+      }
+    },
+    {
+      "query": "DCL",
+      "color": {
+        "a": 1,
+        "rgb": 14936971
+      }
+    },
+    {
+      "query": "DML",
+      "color": {
+        "a": 1,
+        "rgb": 9302401
+      }
+    },
+    {
+      "query": "TCL",
+      "color": {
+        "a": 1,
+        "rgb": 9167851
+      }
+    },
+    {
+      "query": "MY SQL",
+      "color": {
+        "a": 1,
+        "rgb": 10951451
+      }
+    },
+    {
+      "query": "DDL",
+      "color": {
+        "a": 1,
+        "rgb": 12382593
+      }
+    },
+    {
+      "query": "filtering",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "Administrative Command",
+      "color": {
+        "a": 1,
+        "rgb": 1064083
+      }
+    },
+    {
+      "query": "correct sql",
+      "color": {
+        "a": 1,
+        "rgb": 3676304
+      }
+    },
+    {
+      "query": "sql server",
+      "color": {
+        "a": 1,
+        "rgb": 8718272
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 1.60572916666667,
+  "lineSizeMultiplier": 1.19739583333333,
+  "collapse-forces": false,
+  "centerStrength": 0.244791666666667,
+  "repelStrength": 13.3333333333333,
+  "linkStrength": 1,
+  "linkDistance": 321,
+  "scale": 0.15106743319207072,
+  "close": true
+}
